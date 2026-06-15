@@ -1,3 +1,9 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat) 
+
+ 
+
+This public repository is read-only and no longer maintained. For the latest sample code repositories, visit the [Samples](https://github.com/SAP-samples) organization.  
+
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/service-ticket-intelligence-jupyter-notebook)](https://api.reuse.software/info/github.com/SAP-samples/service-ticket-intelligence-jupyter-notebook)
 
 # Service Ticket Intelligence - Jupyter Notebooks and Dataset Example Sample Files
